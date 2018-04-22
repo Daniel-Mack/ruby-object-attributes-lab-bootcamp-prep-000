@@ -17,3 +17,5 @@ end
 adele = Person.new
 adele.name = "Adele"
 puts adele.name
+adele.job = "Singer"
+puts adele.job
