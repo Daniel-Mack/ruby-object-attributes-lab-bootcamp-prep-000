@@ -6,3 +6,7 @@ class Person
    @name
  end
  end
+
+adele = Person.new
+adele.name = "Adele"
+puts adele.name
